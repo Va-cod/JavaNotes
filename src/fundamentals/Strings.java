@@ -1,6 +1,6 @@
 package fundamentals;
 
-public class String {
+public class Strings {
     public static void main(java.lang.String[] args) {
         System.out.print("String");
     }
