@@ -19,7 +19,8 @@ public class Reto {
             suma += calificacion;
         }
 
-        System.out.println(suma);
+        double promedio = suma / calificaciones.length;
+        System.out.println("Promedio: " + promedio);
 
     }
 }
