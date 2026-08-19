@@ -1,7 +1,6 @@
 package matrices;
 
-import org.w3c.dom.ls.LSOutput;
-
+// RETO
 public class Reto {
     public static void main(String[] args) {
         int[][] matriz = {{100, 200, 300}, {400, 500, 600}, {700, 800, 900}};
